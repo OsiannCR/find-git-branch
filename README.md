@@ -11,7 +11,7 @@ php get_git_branch.php username password hostname/ip git-clone-path.
 ### Steps to run
 ### Clone the git repo
 ```bash
-git clone git@github.com:amjad489/terraform-vpc.git
+git clone https://github.com/amjad489/find-git-branch.git
 ```
 ```bash
 /usr/bin/php /path/to/get_git_branch.php
